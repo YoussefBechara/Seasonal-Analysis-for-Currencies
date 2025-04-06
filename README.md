@@ -2,7 +2,7 @@
 A Python-based tool for analyzing seasonal patterns in currency pairs, with a focus on EUR/USD historical data analysis.
 
 # Example Output
-![Alt text](https://github.com/YoussefBechara/Seasonal-Analysis-for-Currencies/SeasonalAnalysisEURUSD.png)
+![Alt text](https://github.com/YoussefBechara/Seasonal-Analysis-for-Currencies/blob/main/SeasonalAnalysisEURUSD.png)
 
 # Overview
 This project provides a comprehensive seasonal analysis tool for forex markets implemented in Python using Jupyter Notebook. It includes visualization capabilities and statistical analysis of currency pair seasonal patterns.
